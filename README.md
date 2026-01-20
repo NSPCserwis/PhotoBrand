@@ -29,5 +29,10 @@
 ## 📦 Pobieranie (Wersja EXE)
 Gotową wersję dla systemu Windows znajdziesz w sekcji [Releases](https://github.com/NSPCserwis/PhotoBrand/releases).
 
+> [!WARNING]
+> **[PL] Ważna Uwaga dot. Antywirusów:** Ponieważ plik ".exe" jest nowy i nie posiada płatnego certyfikatu Microsoft, Windows Defender może wyświetlić komunikat: "System Windows ochronił ten komputer". Należy wtedy kliknąć "Więcej informacji" -> "Uruchom mimo to".
+>
+> **[ENG] Important Note regarding Antiviruses:** Because the ".exe" file is new and does not have a paid Microsoft certificate, Windows Defender may display: "Windows has protected this computer." You should click "More Info" -> "Run Anyway".
+
 ## 📄 Licencja
 Projekt udostępniony na licencji MIT.
