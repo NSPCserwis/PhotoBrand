@@ -1,0 +1,35 @@
+# Pliki Pythona
+*.py
+!gui.py
+!engine.py
+!google_fonts.py
+!modern_slider.py
+!setup_assets.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / EXE
+build/
+dist/
+*.spec
+
+# Wirtualne środowiska
+venv/
+.venv/
+env/
+
+# Dane i pliki tymczasowe
+presets/*.json
+fonts/*.ttf
+*.jpg
+*.jpeg
+*.png
+!logo.png
+!icon.ico
+
+# Inne
+.vscode/
+.idea/
