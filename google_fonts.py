@@ -7,7 +7,7 @@ import requests
 import json
 
 FONTS_DIR = "fonts"
-GOOGLE_FONTS_API_KEY = "AIzaSyDGCGm8xtxdvKT3yx0xJBZ4uGpqEPwYtro"  # Public demo key
+GOOGLE_FONTS_API_KEY = ""  # Wstaw swój klucz API Google Fonts (opcjonalnie)
 CACHE_FILE = "fonts_cache.json"
 
 if not os.path.exists(FONTS_DIR):
