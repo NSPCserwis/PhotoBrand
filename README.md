@@ -1,4 +1,4 @@
-# 🎨 Photo Brand V1.1
+# 🎨 Photo Brand V1.0
 
 ![Logo](logo.png)
 
